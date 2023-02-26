@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+nav{
+    display: flex;
+    background: black;
+    color: white;
+    max-width: 100%;
+    margin: auto;
+
+}
+
+.menu ul li{
+    display: inline-flex;
+    padding: 0 25px;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+.logo span{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
